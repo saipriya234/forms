@@ -3,8 +3,6 @@ import ComapnyAdminAddForm from './components/Company-admin-add-form'
 
 
 function App() {
-  
-
   return (
    <>
    <ComapnyAdminAddForm />
